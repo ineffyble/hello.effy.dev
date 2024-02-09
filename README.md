@@ -1,3 +1,3 @@
-# hello.effy.dev
+# Placeholder
 
-This is my good intended site hooray.
+This DNS record needs to be deleted.
